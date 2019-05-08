@@ -1,1 +1,5 @@
 first
+Here is a change to the file (2019-05-07)
+Here is another freaky deaky change to the file (same date as above but like 15 minutes later)
+These two changes are meant to illustratre how a file can be both modified and staged at the same time 
+(but not really, read the tutorial to find out why)
