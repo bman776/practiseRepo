@@ -3,3 +3,7 @@ Here is a change to the file (2019-05-07)
 Here is another freaky deaky change to the file (same date as above but like 15 minutes later)
 These two changes are meant to illustratre how a file can be both modified and staged at the same time 
 (but not really, read the tutorial to find out why)
+
+Now im going to exit this file again but not stage it (didnt execute the $ git add codefirst.txt command) (same date as above but like a few hours later)
+
+Once more I shall edit this file but not stage it so that i can use $ git diff to see what is staged and unstaged in this file
