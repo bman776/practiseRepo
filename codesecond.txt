@@ -1,1 +1,2 @@
 second hablabahbalba
+Another change in the file just to see how merging works on two divergnet branches. This change will be part of a commit on the 'testing' branch and is performed after other commits on this branch as well as commits on the 'master' branch (thus making hte branches divergent, so when i merge them it should not be a "Fast foreward")
