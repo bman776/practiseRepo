@@ -1,1 +1,2 @@
 second hablabahbalba
+A change in this file to see how merging two divergent branches works (currently merging on the testing bracnh after a one commit was made on it followed by another commit on the master bracnh making them divergent)
