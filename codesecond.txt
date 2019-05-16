@@ -1,2 +1,2 @@
 second hablabahbalba
-A change in this file to see how merging two divergent branches works (currently merging on the testing bracnh after a one commit was made on it followed by another commit on the master bracnh making them divergent)
+Another change in the file just to see how merging works on two divergnet branches. This change will be part of a commit on the 'testing' branch and is performed after other commits on this branch as well as commits on the 'master' branch (thus making hte branches divergent, so when i merge them it should not be a "Fast foreward")
